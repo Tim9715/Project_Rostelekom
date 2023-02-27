@@ -1,0 +1,8 @@
+url1 = 'https://b2c.passport.rt.ru/'
+name1 = 'valid_data'
+surname1 = 'valid_data'
+region1 = 'valid_data'
+number1 = 'valid_data'
+email1 = 'valid_data'
+login1 = 'valid_data'
+password1 = 'valid_data'
