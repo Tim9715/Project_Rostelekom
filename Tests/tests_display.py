@@ -41,6 +41,7 @@ def test_clickability_tabs():
     driver.get(url1)
 
     time.sleep(6)
+    
     active_tab = driver.find_element(By.CLASS_NAME, 'rt-tab--active')
     assert 'Телефон' == active_tab.text
 
