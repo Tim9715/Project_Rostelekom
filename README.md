@@ -1,6 +1,5 @@
 # Итоговый проект по автоматизации тестирования
 ## Объект тестирования: [Ростелеком](https://b2c.passport.rt.ru)
-### [Тест кейсы к проекту](https://docs.google.com/spreadsheets/d/1AkrfMphA0BTIopciPn-KcnqGB20yEOXmv2VA0wWp5QU/edit?usp=sharing)
 ___
 ### Окружение:
 + Windows 10 Version 22H2 / Chrome Версия 110.0.5481.178 (Официальная сборка), (64 бит)
